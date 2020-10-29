@@ -1,0 +1,4 @@
+['Admission Date: 9/12/2005']
+['Discharge Date: 10/16/2005']
+PAST MEDICAL HISTORY: Pressure ulcer on the left buttock after left total knee replacement on 0/12 and obesity.
+ALLERGIES: No known drug allergies.
