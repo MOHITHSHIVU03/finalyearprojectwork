@@ -1,16 +1,16 @@
 RECORD #####
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * Admission Date: [2004] Report Status: Signed
-Discharge Date: [2004]
-Attending: [PERSONS]
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * Admission Date: [DATE] Report Status: Signed
+Discharge Date: [DATE]
+ATTENDING: [PERSONS] 
 DISCHARGE DIAGNOSES:
 Anemia , GI bleed and CHF exacerbation.
 HISTORY OF PRESENT ILLNESS:
-This patient is a [65.5] years old gentleman with multiple past
+This patient is a [61-70]yearsold gentleman with multiple past
 cardiovascular medical issues including hypertension , diabetes ,
 hypercholesterolemia , nonobstructive CAD on prior catheterization
 of 1993 and idiopathic cardiomyopathy with an ejection fraction
-reported at baseline from the [HOSPITAL] to be
-45% , prior echocardiogram in Montsair [HOSPITAL] from
+reported at baseline from the Burgthan Hospital to be
+45% , prior echocardiogram in Montsair Community Hospital from
 1994 reported at 25 to 30% , question alcoholic cardiomyopathy ,
 atrial fibrillation. He is status post right MCA CVA while on
 Coumadin for atrial fibrillation and peripheral vascular disease ,
@@ -47,7 +47,7 @@ previously been reported to be in this abnormal rhtyhm that
 converted to normal sinus rhythm while on amiodarone. He was
 noted to have rapid ventricular response in 120s. He had
 appeared pale. Hematocrit obtained at that time reportedly 21.4
-and the patient was admitted to the Nipaul Ingways [HOSPITAL]
+and the patient was admitted to the Nipaul Ingways Community Hospital
 for further evaluation.
 REVIEW OF SYSTEMS:
 Of note , review of systems is positive for recent chills , no
@@ -88,7 +88,7 @@ SOCIAL HISTORY:
 The patient has a 50-pack-year smoking history , continues to
 smoke several cigarettes a day. Past alcohol abuse though the
 patient reports no alcohol in the last 20 years. The patient
-currently lives with his girlfriend of [45.5] years and is local to
+currently lives with his girlfriend of [41-50]yearsand is local to
 O Lasmerflinteans Louis
 FAMILY HISTORY:
 Family history is noncontributory. No history of a sudden
@@ -120,7 +120,7 @@ reportedly the patient's baseline. Chest film with vascular
 prominence at the hilum bilaterally , question mass infiltrate
 over left lower lobe with no overt effusions.
 ASSESSMENT:
-The patient is a [65.5] years old gentleman with extensive past
+The patient is a [61-70]yearsold gentleman with extensive past
 cardiac and otherwise medical history presenting to the Mahunt Medical Center with CHF exacerbation , anemia with question
 GI bleed with hematocrit in the 20s and question
 community-acquired pneumonia.
@@ -135,7 +135,7 @@ Cardiac enzymes were drawn and serially were elevated with a peak
 troponin I of 4. Subsequent serial cardiac enzymes resolved to
 baseline values. The patient was initially started on heparin IV
 drip for concern for unstable plaque , but following consultation
-with [DOCTOR] in Cardiology , it was recommended anticoagulation
+with Dr. Slaney in Cardiology , it was recommended anticoagulation
 be stopped secondary to recent GI bleed and low concern for acute
 coronary syndrome versus demand ischemia. Additionally , the
 patient was rate controlled with IV following p.o. Lopressor ,
@@ -146,10 +146,10 @@ with IV Lasix with diuresis of 4 to 8 liters over the hospital
 course. Echocardiogram obtained during decompensated episode
 revealed EF of 25 to 30% with global hypokinesis and septal
 akinesis , was significantly altered from prior echocardiogram of
-[2003]obtained at the Wellcamp University Of Medical Center which had
+[DATE] obtained at the Wellcamp University Of Medical Center which had
 revealed an EF of 40 to 45% with mild global HK. However , of
 note , this echocardiogram was similar to prior echocardiogram in
-Alehealtdana [HOSPITAL] system from 1994 with no additional
+Alehealtdana Bafound Hospital system from 1994 with no additional
 wall motion abnormalities. The patient's cardiovascular issues
 felt to stem secondary to anemia in the setting of increased
 ventricular response and tachycardia , which led to demand
@@ -171,7 +171,7 @@ unstable during admission. GI bleed felt to be a precipitating
 etiology. The patient was seen by the GI Service , was
 recommended further outpatient evaluation and upper and lower GI
 endoscopy evaluation as required. The patient to follow up with
-[DOCTOR] in the Erpin Medical Center and outpatient EGD
+Dr. Rosendo in the Erpin Medical Center and outpatient EGD
 and colonoscopy to be scheduled for the next week or two to
 further evaluate. At the time of discharge , the patient's
 hematocrit stable at 29 , no evidence of active GI bleed present.
@@ -179,7 +179,8 @@ Additionally , the patient initially held on Coumadin giving
 concern for ongoing GI bleed and following stable transfusion ,
 the patient's Coumadin was restarted at initially 5 and then
 later 3 mg p.o. q.h.s. with INR goal of 2.8. To be further
-evaluated as outpatient and INR to be checked on [2004]in [DOCTOR] office and titration of Coumadin as required.
+evaluated as outpatient and INR to be checked on [DATE] in Dr.
+Paider office and titration of Coumadin as required.
 3. GI: As mentioned prior , the patient with GI bleed , thought
 to be precipitating etiology of the patient's current
 hospitalization. The patient maintained on IV Protonix b.i.d.
@@ -222,7 +223,7 @@ admission with a creatinine of 1.8 presumed baseline. At the
 time of discharge , the patient's creatinine had resolved to 1.3 ,
 thought to be secondary to cardiorenal syndrome in the setting of
 acute CHF decompensation , recommend further outpatient management
-evaluation. The patient to follow up with [DOCTOR] in the Lumspe Black Healthcare on [2004]at 1:00 p.m. at which time ,
+evaluation. The patient to follow up with Dr. Mcculler in the Lumspe Black Healthcare on [DATE] at 1:00 p.m. at which time ,
 recommend further evaluation of hematocrit , INR , electrolyte as
 required.
 DISCHARGE MEDICATIONS:
@@ -258,15 +259,17 @@ As mentioned prior , at the time of discharge , the patient
 afebrile and vital signs stable. The patient ambulating without
 difficulty and feeling at baseline. The patient's O2 saturation
 is greater than 95% with ambulation. The patient is to follow up
-with [DOCTOR] in the Bridplacechael's [HOSPITAL] with further
+with Dr. Alquesta in the Bridplacechael's Community Hospital with further
 outpatient evaluation for GI bleed as potential source of anemia
 as well as further cardiac work up including cardiac
 catheterization at a later time given troponin leak in the
 setting of demand ischemia. The patient was transitioned to all
 p.o. regimen.
-eScription document: ******
+eScription document: 8-2198587 EMSSten Tel
 Dictated By: [DOCTORS]
-Attending: [PERSONS]
-Dictation ID ********
-D: [2004]T: [2004][report_end]
+Attending: [PERSONS] 
+Dictation ID: ********
+D: [DATE]
+T: [DATE]
+[report_end]
 
